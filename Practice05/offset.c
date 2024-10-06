@@ -6,6 +6,6 @@ int main()
     float b = 2.333;
     printf("Hello world\n");
 
-    printf("%7.4f", b);
+    printf("%7.2f", b);
     return 0;
 }
