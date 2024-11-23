@@ -1,0 +1,1 @@
+i++;  // Increment the variable
